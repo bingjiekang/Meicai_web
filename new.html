@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf8">
+	<title>切换</title>
+	<style type="text/css">
+		.box input{
+			width: 100px;
+			height: 50px;
+			border: 0px;
+			border-radius: 20px;
+			/*margin: 50px auto 0px;*/
+		}
+		.box .current{
+			background-color: #f222;
+		}
+
+		.img img{
+			width: 30%;
+			height: 30%;
+			display: none;
+		}
+		.img .show{
+			display: block;
+		}
+
+
+
+	</style>
+
+	<script type="text/javascript" src="jquery-3.6.0.js"></script>
+	<script type="text/javascript">
+
+		$(function(){
+
+			var $Btn = $(".box input");
+			var $cnt = $(".img img");
+
+			$Btn.click(function(){
+
+				$(this).addClass("current").siblings().removeClass("current");
+				$cnt.eq( $(this).index() ).addClass("show").siblings().removeClass("show");
+
+			})
+
+
+		})
+
+
+	</script>
+
+
+</head>
+<body>
+	<div class="box">
+	<input type="button" name="" value="01" class="current">
+	<input type="button" name="" value="02">
+	<input type="button" name="" value="03">
+	<input type="button" name="" value="04">
+	<input type="button" name="" value="05">
+	<input type="button" name="" value="06">
+
+	</div>
+	<div class="img" style="cursor:pointer">
+		<img src="./images/2.jpg" class="show" >
+		<img src="./images/6.jpg">
+		<img src="./images/8.jpg">
+		<img src="./images/9.jpg">
+		<img src="./images/12.jpg">
+		<img src="./images/16.jpg">
+	</div>
+</body>
+</html>
