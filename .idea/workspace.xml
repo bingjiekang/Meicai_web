@@ -11,7 +11,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17e4acc2-a2ed-4a4d-ae65-3a6509547c85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/order/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/db/base_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/carts/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/carts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/carts/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/carts/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/carts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/carts/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/carts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/order/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/order/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/order/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/order/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/order/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/order/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/order/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +68,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2BNy5TyySztRa3nk96M0kUgsfxG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,11 +78,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dailyfresh/apps/carts" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\Meicai_web\dailyfresh\apps\carts" />
+      <recent name="E:\github\Meicai_web\dailyfresh\apps\goods" />
+      <recent name="E:\github\Meicai_web\dailyfresh\apps\order" />
+      <recent name="E:\github\Meicai_web\dailyfresh\apps\user" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\Meicai_web\dailyfresh" />
       <recent name="E:\github\Meicai_web\apps" />
     </key>
   </component>
