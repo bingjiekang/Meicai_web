@@ -11,71 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17e4acc2-a2ed-4a4d-ae65-3a6509547c85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/adv01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/adv02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/fruit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods_detail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/icons02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/interval_line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/left_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/login_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/logo02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/pay_icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/register_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/shop_cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/slide.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/slide02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/slide03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/slide04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/jquery-1.12.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/jquery.cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/slide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/place_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/user_center_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/user_center_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/static/user_center_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -212,22 +147,22 @@
       <screen x="0" y="0" width="1366" height="737" />
     </state>
     <state x="455" y="107" key="FileChooserDialogImpl/0.0.1366.737@0.0.1366.737" timestamp="1657284828900" />
-    <state width="1252" height="164" key="GridCell.Tab.0.bottom" timestamp="1657283857158">
+    <state width="1252" height="164" key="GridCell.Tab.0.bottom" timestamp="1657290622030">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state width="1252" height="164" key="GridCell.Tab.0.bottom/0.0.1366.737@0.0.1366.737" timestamp="1657283857158" />
-    <state width="1252" height="164" key="GridCell.Tab.0.center" timestamp="1657283857157">
+    <state width="1252" height="164" key="GridCell.Tab.0.bottom/0.0.1366.737@0.0.1366.737" timestamp="1657290622030" />
+    <state width="1252" height="164" key="GridCell.Tab.0.center" timestamp="1657290622029">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state width="1252" height="164" key="GridCell.Tab.0.center/0.0.1366.737@0.0.1366.737" timestamp="1657283857157" />
-    <state width="1252" height="164" key="GridCell.Tab.0.left" timestamp="1657283857157">
+    <state width="1252" height="164" key="GridCell.Tab.0.center/0.0.1366.737@0.0.1366.737" timestamp="1657290622029" />
+    <state width="1252" height="164" key="GridCell.Tab.0.left" timestamp="1657290622029">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state width="1252" height="164" key="GridCell.Tab.0.left/0.0.1366.737@0.0.1366.737" timestamp="1657283857157" />
-    <state width="1252" height="164" key="GridCell.Tab.0.right" timestamp="1657283857157">
+    <state width="1252" height="164" key="GridCell.Tab.0.left/0.0.1366.737@0.0.1366.737" timestamp="1657290622029" />
+    <state width="1252" height="164" key="GridCell.Tab.0.right" timestamp="1657290622029">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state width="1252" height="164" key="GridCell.Tab.0.right/0.0.1366.737@0.0.1366.737" timestamp="1657283857157" />
+    <state width="1252" height="164" key="GridCell.Tab.0.right/0.0.1366.737@0.0.1366.737" timestamp="1657290622029" />
     <state x="125" y="9" key="SettingsEditor" timestamp="1656825100284">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
