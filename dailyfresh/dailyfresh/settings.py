@@ -12,10 +12,11 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 from pathlib import Path
 import os
+import sys
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
+sys.path.insert(0,os.path.join(BASE_DIR,"apps"))
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
@@ -39,10 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     "tinymce",#富文本编辑器
-    "apps.carts", #购物车模块
-    "apps.goods", #商品模块
-    "apps.order", #订单模块
-    "apps.user", #用户模块
+    "carts", #购物车模块
+    "goods", #商品模块
+    "order", #订单模块
+    "user", #用户模块
 ]
 
 MIDDLEWARE = [
@@ -112,7 +113,7 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 # django认证系统使用的模型类
-AUTH_USER_MODEL='apps.user.User'
+AUTH_USER_MODEL='user.User'
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/

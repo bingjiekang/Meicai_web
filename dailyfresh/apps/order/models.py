@@ -1,5 +1,5 @@
 from django.db import models
-from db.base_model import BaseModel
+from dailyfresh.db.base_models import BaseModel
 # Create your models here.
 
 
