@@ -11,9 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17e4acc2-a2ed-4a4d-ae65-3a6509547c85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/base_models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dailyfresh/apps/order/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/urls.py" afterDir="false" />
     </list>
@@ -43,19 +46,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dailyfresh/apps/carts" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/study/网页学习/07web全栈开发阶段-Django框架-Git版本管理-redis数据库-天天生鲜项目/11-14代码V3.1/Django代码V3.1/day08-天天生鲜项目-需求分析-框架设计-表设计/4-代码/dailyfresh" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\Meicai_web\dailyfresh" />
+      <recent name="E:\github\Meicai_web\apps" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\Meicai_web\db" />
       <recent name="E:\github\Meicai_web\dailyfresh\apps\carts" />
       <recent name="E:\github\Meicai_web\dailyfresh\apps\goods" />
       <recent name="E:\github\Meicai_web\dailyfresh\apps\order" />
       <recent name="E:\github\Meicai_web\dailyfresh\apps\user" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\github\Meicai_web\dailyfresh" />
-      <recent name="E:\github\Meicai_web\apps" />
     </key>
   </component>
   <component name="RunManager" selected="Python.models">
@@ -146,10 +150,10 @@
       <screen x="0" y="0" width="1366" height="737" />
     </state>
     <state x="394" y="159" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.737@0.0.1366.737" timestamp="1656825145929" />
-    <state x="455" y="107" key="FileChooserDialogImpl" timestamp="1656825107549">
+    <state x="455" y="107" key="FileChooserDialogImpl" timestamp="1657284828900">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state x="455" y="107" key="FileChooserDialogImpl/0.0.1366.737@0.0.1366.737" timestamp="1656825107549" />
+    <state x="455" y="107" key="FileChooserDialogImpl/0.0.1366.737@0.0.1366.737" timestamp="1657284828900" />
     <state width="1252" height="164" key="GridCell.Tab.0.bottom" timestamp="1657283857158">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
