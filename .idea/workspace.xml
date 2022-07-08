@@ -11,14 +11,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17e4acc2-a2ed-4a4d-ae65-3a6509547c85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/base_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/adv01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/adv02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/banner06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/fruit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods/goods021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/goods_detail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/icons02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/interval_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/left_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/login_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/logo02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/pay_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/register_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/shop_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/slide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/slide02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/slide03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/images/slide04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/js/slide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/place_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/user_center_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/user_center_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/static/user_center_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/order/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +104,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/study/网页学习/07web全栈开发阶段-Django框架-Git版本管理-redis数据库-天天生鲜项目/11-14代码V3.1/Django代码V3.1/day08-天天生鲜项目-需求分析-框架设计-表设计/4-代码/dailyfresh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dailyfresh/static" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -55,11 +113,11 @@
       <recent name="E:\github\Meicai_web\apps" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\Meicai_web\dailyfresh\static" />
+      <recent name="E:\github\Meicai_web\templates" />
       <recent name="E:\github\Meicai_web\db" />
       <recent name="E:\github\Meicai_web\dailyfresh\apps\carts" />
       <recent name="E:\github\Meicai_web\dailyfresh\apps\goods" />
-      <recent name="E:\github\Meicai_web\dailyfresh\apps\order" />
-      <recent name="E:\github\Meicai_web\dailyfresh\apps\user" />
     </key>
   </component>
   <component name="RunManager" selected="Python.models">
