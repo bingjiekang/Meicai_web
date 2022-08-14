@@ -11,7 +11,162 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17e4acc2-a2ed-4a4d-ae65-3a6509547c85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/adv01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/adv02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/banner01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/banner02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/banner03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/banner04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/banner05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/banner06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/fruit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods/goods021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/goods_detail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/icons02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/interval_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/left_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/login_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/logo02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/pay_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/register_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/shop_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/slide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/slide02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/slide03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/images/slide04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/jr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/js/slide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/place_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/user_center_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/user_center_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/user_center_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/页面说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/adv01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/adv02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/banner01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/banner02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/banner03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/banner04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/banner05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/banner06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/fruit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods/goods021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/goods_detail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/icons02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/interval_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/left_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/login_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/logo02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/pay_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/register_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/shop_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/slide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/slide02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/slide03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/slide04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/slide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/place_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/user_center_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/user_center_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/user_center_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/页面说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/booktest/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test1/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/test1/booktest/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +177,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,8 +194,10 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dailyfresh/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test1/booktest" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -48,11 +206,11 @@
       <recent name="E:\github\Meicai_web\apps" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\Meicai_web\test1\booktest" />
+      <recent name="E:\github\Meicai_web\dailyfresh" />
       <recent name="E:\github\Meicai_web\dailyfresh\static" />
       <recent name="E:\github\Meicai_web\templates" />
       <recent name="E:\github\Meicai_web\db" />
-      <recent name="E:\github\Meicai_web\dailyfresh\apps\carts" />
-      <recent name="E:\github\Meicai_web\dailyfresh\apps\goods" />
     </key>
   </component>
   <component name="RunManager" selected="Python.models">
@@ -116,6 +274,9 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -134,6 +295,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="129" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656821412933">
       <screen x="0" y="0" width="1366" height="737" />
@@ -143,10 +307,10 @@
       <screen x="0" y="0" width="1366" height="737" />
     </state>
     <state x="394" y="159" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.737@0.0.1366.737" timestamp="1656825145929" />
-    <state x="455" y="107" key="FileChooserDialogImpl" timestamp="1657284828900">
+    <state x="455" y="107" key="FileChooserDialogImpl" timestamp="1660397692513">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state x="455" y="107" key="FileChooserDialogImpl/0.0.1366.737@0.0.1366.737" timestamp="1657284828900" />
+    <state x="455" y="107" key="FileChooserDialogImpl/0.0.1366.737@0.0.1366.737" timestamp="1660397692513" />
     <state width="1252" height="164" key="GridCell.Tab.0.bottom" timestamp="1657290622030">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
@@ -163,9 +327,13 @@
       <screen x="0" y="0" width="1366" height="737" />
     </state>
     <state width="1252" height="164" key="GridCell.Tab.0.right/0.0.1366.737@0.0.1366.737" timestamp="1657290622029" />
-    <state x="125" y="9" key="SettingsEditor" timestamp="1656825100284">
+    <state x="251" y="26" key="SettingsEditor" timestamp="1660398911686">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state x="125" y="9" key="SettingsEditor/0.0.1366.737@0.0.1366.737" timestamp="1656825100284" />
+    <state x="251" y="26" key="SettingsEditor/0.0.1366.737@0.0.1366.737" timestamp="1660398911686" />
+    <state x="358" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1660446528189">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="358" y="58" width="672" height="678" key="search.everywhere.popup/0.0.1366.737@0.0.1366.737" timestamp="1660446528189" />
   </component>
 </project>
