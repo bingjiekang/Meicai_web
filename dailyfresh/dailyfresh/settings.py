@@ -144,3 +144,17 @@ TINYMCE_DEFAULT_CONFIG = {
     'width': 600,
     'height': 400,
 }
+
+# 利用smtp发送邮件配置
+# 固定
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+# 邮箱smtp服务器
+EMAIL_HOST = "smtp.qq.com"
+# 端口号
+EMAIL_PORT = 25
+# 发送方的邮箱
+EMAIL_HOST_USER = "942844582@qq.com"
+# 授权码
+EMAIL_HOST_PASSWORD = "cljmrzxqgdvqbedb"
+# 收件人看到的发件人
+EMAIL_FROM = "天天生鲜<942844582@qq.com>"
