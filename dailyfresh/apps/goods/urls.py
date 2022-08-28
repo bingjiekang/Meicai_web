@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.urls import path,include
-from . import views
+from goods.views import IndexView
 urlpatterns = [
-    path("index/", views.index,name="index"),
-    path("", views.index,name="index"),
+    # path("index/", IndexView.as_view(),name="index"),
+    path("", IndexView.as_view(),name="index"),
 ]

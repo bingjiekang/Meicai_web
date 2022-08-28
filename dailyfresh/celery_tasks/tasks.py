@@ -3,7 +3,7 @@ from celery import Celery
 from django.conf import settings
 from django.core.mail import send_mail
 # 创建celery的一个实例对象
-app = Celery("celery_tasks.tasks",broker= "redis://:root@127.0.0.1:6379/8")
+app = Celery("celery_tasks.tasks",broker= "redis://127.0.0.1:6379/8")
 
 import os
 import django

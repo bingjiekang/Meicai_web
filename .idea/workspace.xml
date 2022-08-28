@@ -14,52 +14,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17e4acc2-a2ed-4a4d-ae65-3a6509547c85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/.redis.windows.conf.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/00-RELEASENOTES" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/EventLog.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/RELEASENOTES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/dump.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-benchmark.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-benchmark.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-check-aof.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-check-aof.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-check-rdb.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-check-rdb.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-cli.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-cli.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-server.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis-server.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis.windows-service.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/redis.windows.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/migrations/0002_alter_goods_is_delete_alter_goodsimage_is_delete_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/order/migrations/0003_alter_ordergoods_is_delete_alter_orderinfo_is_delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/user/migrations/0002_alter_address_is_delete_alter_user_is_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/utils/Mixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/utils/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redis-x64-5.0.14.1/dump.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/dump.rdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dailyfresh/apps/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dailyfresh/apps/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/celery_tasks/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/celery_tasks/tasks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/db/base_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/db/base_models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/jr.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/base_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/base_models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/celery_tasks/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/celery_tasks/tasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/templates/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/booktest/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/test1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/test1/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/test1/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/test1/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/test1/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/user_center_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/user_center_info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/user_center_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/user_center_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/user_center_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/user_center_site.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,10 +261,10 @@
       <screen x="0" y="0" width="1366" height="737" />
     </state>
     <state width="1252" height="340" key="GridCell.Tab.1.right/0.0.1366.737@0.0.1366.737" timestamp="1660459635548" />
-    <state x="251" y="26" key="SettingsEditor" timestamp="1660733888589">
+    <state x="251" y="26" key="SettingsEditor" timestamp="1661348153419">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state x="251" y="26" key="SettingsEditor/0.0.1366.737@0.0.1366.737" timestamp="1660733888589" />
+    <state x="251" y="26" key="SettingsEditor/0.0.1366.737@0.0.1366.737" timestamp="1661348153419" />
     <state x="358" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1660485248229">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
