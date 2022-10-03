@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     "tinymce",#富文本编辑器
     "carts", #购物车模块
     "goods", #商品模块
+    "haystack", #注册全文解锁框架
     "order", #订单模块
     "user", #用户模块
 ]
@@ -175,3 +176,23 @@ SESSION_CACHE_ALIAS = "default"
 
 # 配置登录url地址
 LOGIN_URL = "/user/login"
+
+DEFAULT_FILE_STORAGE="utils.fdfs.storage.FDFSStorage"
+
+# 设置fdfs使用客户端的文件路径
+FDFS_CLIENT_CONF = "./utils/fdfs/client.conf"
+
+# 设置fdfs存储服务器上nginx的ip和端口号
+FDFS_URL = "http://140.83.37.178:8888/"
+
+# 全文解锁框架的配置
+HAYSTACK_CONNECTIONS = {
+    'default':{
+        # 使用whoosh引擎
+        'ENGINE':'haystack.backends.whoosh_backend.WhooshEngine',
+        # 索引文件路径
+        'PATH':os.path.join(BASE_DIR,'whoosh_index'),
+    }
+}
+# 当添加、修改、删除数据时，自动生成索引
+HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'

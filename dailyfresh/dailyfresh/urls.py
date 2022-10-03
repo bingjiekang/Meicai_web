@@ -18,6 +18,7 @@ from django.urls import path,include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("tinymce/",include("tinymce.urls")),
+    path("search/",include('haystack.urls')),# 全文解锁
     path("user/", include(("user.urls","user"),namespace="user")), #用户模块
     path("cart/",include(("carts.urls","carts"),namespace="cart")),#购物车模块
     path("order/", include(("order.urls","order"),namespace="order")),#订单模块
