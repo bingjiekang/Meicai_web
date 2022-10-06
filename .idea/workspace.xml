@@ -14,93 +14,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17e4acc2-a2ed-4a4d-ae65-3a6509547c85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/search_indexes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/order/alipay_public_key.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/apps/order/app_private_key.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/fdfs_protol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/fdfs_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/sendfilemodule.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/storage_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/tracker_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/fdfs_client/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/search/indexes/goods/goodssku_text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/templates/search/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/utils/fdfs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/utils/fdfs/client.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/utils/fdfs/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_0e01vkqb7s06tf3y.seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_4rs0tofsjkhk583d.seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_WRITELOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_dcjw159h8c7qsylm.seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_rg7pnmza3g8kaqfh.seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/_MAIN_54.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/CHANGES" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/INSTALL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/MANIFEST.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/fdfs_protol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/fdfs_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/sendfilemodule.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/storage_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/tracker_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/fdfs_client/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/setup.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fdfs_client-py-master/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/Meat_peek.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/Meat_sheep.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/冬瓜.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/冰淇淋.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/大闸蟹.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/果汁.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/牛排.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/牛肉.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/白菜.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/芹菜.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/速冻水饺.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/香菜.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/鸡肉.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/鸡蛋.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/鸭肉.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/天天生鲜项目页面/images/goods/鸭蛋.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_cu1xnfes36rw2x3h.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_ju12ghtqv8ofu2sk.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_r2p783hnorm9rsfg.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyfresh/whoosh_index/_MAIN_58.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Redis-x64-5.0.14.1/dump.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/Redis-x64-5.0.14.1/dump.rdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/carts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/carts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/carts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/goods/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/order/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/order/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/order/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/order/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/apps/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/apps/user/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/celery_tasks/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/celery_tasks/tasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/dailyfresh/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/dailyfresh/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/place_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/place_order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/user_center_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/user_center_info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/user_center_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/user_center_order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyfresh/templates/user_center_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/dailyfresh/templates/user_center_site.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/base_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/base_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_0e01vkqb7s06tf3y.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_4rs0tofsjkhk583d.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_dcjw159h8c7qsylm.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_rg7pnmza3g8kaqfh.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/whoosh_index/MAIN_y9vtkvghay7hd2c1.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyfresh/whoosh_index/_MAIN_55.toc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +56,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dailyfresh/apps/order" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyDebuggerOptionsProvider">
@@ -237,8 +162,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.debug" />
       <item itemvalue="Python.base_models" />
+      <item itemvalue="Python.debug" />
       <item itemvalue="Python.manage" />
       <item itemvalue="Python.models" />
     </list>
@@ -294,10 +219,10 @@
       <screen x="0" y="0" width="1366" height="737" />
     </state>
     <state x="394" y="159" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.737@0.0.1366.737" timestamp="1664265988125" />
-    <state x="455" y="107" key="FileChooserDialogImpl" timestamp="1660739284924">
+    <state x="455" y="107" key="FileChooserDialogImpl" timestamp="1664801374706">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state x="455" y="107" key="FileChooserDialogImpl/0.0.1366.737@0.0.1366.737" timestamp="1660739284924" />
+    <state x="455" y="107" key="FileChooserDialogImpl/0.0.1366.737@0.0.1366.737" timestamp="1664801374706" />
     <state width="1252" height="288" key="GridCell.Tab.0.bottom" timestamp="1660486303115">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
